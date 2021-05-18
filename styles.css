@@ -1,0 +1,42 @@
+ul{
+  list-style:none;
+  text-align: left;
+  font-family:sans-serif;
+  margin:1px;
+  padding-left: 5px;
+}
+.label{
+  font-weight:bold;
+}
+#fact{
+  font-style:italic;
+  text-align: center;
+}
+.card{
+  border-style: solid;
+  border-width:thick;
+  border-color:black;
+  width:350px;
+  background-color: rgb(255, 255, 153);
+}
+#image{
+  display: flex;
+  flex-wrap: wrap;
+  margin:25px;
+}
+#heading{
+  text-align: center;
+  font-size:28px;
+  font-family: sans-serif;
+}
+#description{
+  text-align: center;
+  margin:5px;
+}
+#cardtext{
+  border-style:solid;
+  border-width:1px;
+  border-color:black;
+  margin: 25px;
+  width:300px;
+}
